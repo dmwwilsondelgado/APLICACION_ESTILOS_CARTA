@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+h1{
+  color: red;
+}
+header{
+  width: 500px;
+  height: 250px;
+  background: rgb(92, 98, 93);
+}
+body{
+  background-color: rgb(145, 235, 235);
+  margin: 20px 20px 20px 20px;
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-bottom: 15px;
+}
+.caja{
+  width: 600px;
+  height: 300px;
+  background: crimson;
+}

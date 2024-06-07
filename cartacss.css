@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #f2f2f2;
+  padding: 20px;
+  font-size: 15px;
+  font-family: "Exo 2", sans-serif;
+}
+h1{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h2{
+  text-align: right;
+}
+h1,h2{
+  color: rgb(11, 131, 13);
+}
+p.parrafo {
+  line-height: 30px;
+  color: blue;
+  font-size: 24px;
+}
+p.blod{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+p.derecha{
+  text-align: center;
+  font-size: 60px;
+}
+a.palabra{
+  color: rgb(255, 255, 255);
+  background-color: forestgreen;
+  text-transform: capitalize;
+  text-decoration: none;
+  text-align: center;
+  padding: 20px;
+  display: block;
+  width: 200px;
+  font-size: 20px;
+  border-radius: 50%;
+  height: 200px;
+  margin: 0 auto;
+  padding-block-end: 1%;
+  align-items: center;
+  display: flex;
+  place-content: center;
+  border: dotted 12px ;
+  box-shadow:20px 10px black;
+}
+
